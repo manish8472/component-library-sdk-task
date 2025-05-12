@@ -29,7 +29,7 @@ The focus is on reusability, clean code, minimal redundancy, and adherence to th
     ```
     This will start the Vite development server, and you can access the application in your browser (usually at `http://localhost:5173`).
 
-## Using the Components
+## How to use the Components
 
 1. **Import the component:**
     ```typescript
@@ -47,6 +47,12 @@ The focus is on reusability, clean code, minimal redundancy, and adherence to th
           {"Button-name"}
     </Button>
     ```
+## How to run the demo 
+
+### You do not need to run the demo. I have already deployed, so you can see it directly.
+
+**Website Link: ** [https://component-library-sdk-task.vercel.app/](https://component-library-sdk-task.vercel.app/)
+
 
 * **Component Reusability:** Components like `Button`, `InputField`, `Ticket`, `Logo`, `Text`, `Heading` and `Page_Layout` are designed to be reusable across different parts of the application (demonstrated in the two pages).
 
