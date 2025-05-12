@@ -1,6 +1,6 @@
 import { TicketProps } from "./ticket.types";
 import Logo from "../logo/Logo"; // Reusing the Logo component for the ticket header.
-import "./Ticket.css";
+import "./ticket.css";
 
 // Defines the Ticket functional component.
 const Ticket = ({

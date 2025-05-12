@@ -1,7 +1,6 @@
 import  { useState } from "react";
 import RegistrationPage from "./pages/registration_page/registration_page";
 import ConfirmationPage from "./pages/confirmation_page/confirmation_page";
-import "./index.css";
 
 // Defines the structure for user details collected during registration.
 interface UserDetails {

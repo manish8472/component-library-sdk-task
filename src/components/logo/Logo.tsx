@@ -1,5 +1,5 @@
 import { LogoProps } from "./logo.types";
-import "./Logo.css";
+import "./logo.css";
 
 const Logo = ({
   className = "", // Default to an empty string if no className is provided.
